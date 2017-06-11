@@ -1,0 +1,4 @@
+*** Kiwi Pro Changelog ***
+
+2016.01.19 - version 1.0.0
+ * Initial release
